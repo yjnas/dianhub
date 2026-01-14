@@ -248,6 +248,7 @@ curl http://localhost:8080/v2/username/imagename/manifests/v1.0
 - 博客：[wiki.929722.xyz](https://wiki.929722.xyz)
 - B站：[昱君NAS](https://space.bilibili.com/668023659)
 - 闲鱼：[昱君NAS小店](https://m.tb.cn/h.7Tfpr15?tk=ambnfAdmiqA)
+- QQ交流群：[183678380](https://qm.qq.com/q/MbzYnXdaa4)
 
 ---
 
@@ -260,20 +261,15 @@ curl http://localhost:8080/v2/username/imagename/manifests/v1.0
 
 ---
 
-## 📮 联系方式
-
-如有问题或建议，欢迎通过以下方式联系：
-
-- 提交 [Issue](https://github.com/yourusername/dianhub/issues)
-- B站私信：[昱君NAS](https://space.bilibili.com/668023659)
-- 微信：dongqc123
-
----
-
 <div align="center">
 
 **⭐ 如果觉得项目不错，请给个 Star 支持一下！⭐**
 
 Made with ❤️ by YJNAS DIAN
+
+</div>
+<div align="center">
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yjnas/diancup&type=Date)](https://star-history.com/#yjnas/diancup&Date)
 
 </div>
